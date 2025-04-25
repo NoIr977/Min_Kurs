@@ -4,6 +4,8 @@ public class HelloWorld {
     public static void main(String[]arg){
         System.out.println("Hello Dog!");
         System.out.println("Hello Cat!");
+
+        System.out.println("Hello World!");
     }
 
 }
